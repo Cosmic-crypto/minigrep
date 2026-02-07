@@ -36,6 +36,7 @@ but you need be in the file that houses minigrep.exe
 ## Improvements
 * add regex patterns
 * add other flags
+* add comments
 ---
 
-This is my 2nd major rust project after the rc project
+This is my 2nd major rust project after the rc project, so it will be greatly appreciated if I can get any feed back
